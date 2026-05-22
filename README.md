@@ -60,6 +60,7 @@ dt.predict([[5,6]])
 <img width="687" height="152" alt="Screenshot 2026-05-22 131825" src="https://github.com/user-attachments/assets/3264828b-bc63-4a97-abc3-73a9d8b7fe40" />
 <img width="423" height="177" alt="Screenshot 2026-05-22 131747" src="https://github.com/user-attachments/assets/00d0ed66-3f35-45f4-845e-a306db41c5a0" />
 <img width="540" height="261" alt="Screenshot 2026-05-22 131816" src="https://github.com/user-attachments/assets/dfc5a590-5866-47bc-886a-b869a7a0a018" />
+
 <img width="263" height="37" alt="Screenshot 2026-05-22 131756" src="https://github.com/user-attachments/assets/f6a5c355-bfca-4a03-b2f5-3399bcf87db7" />
 
 
